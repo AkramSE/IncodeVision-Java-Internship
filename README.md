@@ -1,19 +1,18 @@
-# 🚀 IncodeVision Java Programming Internship
+# 🚀 Core Java Projects Portfolio
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![Data Structures](https://img.shields.io/badge/Data_Structures-02569B?style=for-the-badge&logo=data&logoColor=white)
 ![OOP](https://img.shields.io/badge/OOP-Principles-success?style=for-the-badge)
 
-Welcome to the official repository for my **Java Programming Internship** at **IncodeVision**. 
-This repository contains a collection of robust, console-based (CLI) applications built entirely in **Java**, demonstrating a strong command over core programming concepts, data structures, and clean code architecture.
+Welcome to my **Core Java Portfolio**. This repository contains a collection of robust, console-based (CLI) applications built entirely in **Java**, demonstrating a strong command over core programming concepts, object-oriented programming (OOP), data structures, and clean code architecture.
 
-## 📁 Internship Tasks Overview
+## 📁 Projects Overview
 
-Here are the details of the projects developed during this 1-month intensive program:
+Here are the details of the projects developed in this repository:
 
 ### 1️⃣ Bank Account Management System
 * **Focus:** Data Structures (HashMap), Input Validation, String Formatting.
-* **Details:** A secure banking system utilizing `HashMap` for O(1) account retrieval. Includes strict `Regex` validation to prevent crashes and dynamic string formatting for professional currency display.
+* **Details:** A secure banking system utilizing `HashMap` for lightning-fast O(1) account retrieval. Includes strict `Regex` validation to prevent crashes and dynamic string formatting for professional currency display.
 
 ### 2️⃣ Student Management System
 * **Focus:** CRUD Operations, Object-Oriented Programming (OOP).
@@ -28,4 +27,6 @@ Here are the details of the projects developed during this 1-month intensive pro
 * **Details:** An interactive tech-quiz utilizing `ArrayList<Question>` to dynamically store and iterate through questions, accurately calculating final scores and percentages with strict error handling.
 
 ---
-*Developed with 💻 & ❤️ by [Muhammad Akram](https://github.com/AkramSE) | 3rd Year Software Engineering Student*
+*Developed with 💻 & ❤️ by [Muhammad Akram](https://github.com/AkramSE) | 3rd Year Software Engineering Student* ```
+
+---
